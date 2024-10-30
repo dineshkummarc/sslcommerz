@@ -4,32 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SSLCommerz Integration README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        code, pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            font-size: 1.1em;
-            display: block;
-            overflow-x: auto;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        .note {
-            background-color: #e9ecef;
-            padding: 10px;
-            border-left: 5px solid #17a2b8;
-        }
-    </style>
 </head>
 <body>
 
